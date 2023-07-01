@@ -1,0 +1,3 @@
+OpenCV library in python is a computer vision library, mostly used for image processing, video processing, and analysis, facial recognition and detection, etc.
+Dlib library in python contains the pre-trained facial landmark detector, that is used to detect the (x, y) coordinates that map to facial structures on the face.
+Numpy is a general-purpose array-processing package. It provides a high-performance multidimensional array object and tools for working with these arrays.
